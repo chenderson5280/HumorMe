@@ -65,12 +65,14 @@ class Cli
                 menu.choice :Knock_Knock, "Knock_Knock"
                 menu.choice :Dad, "Dad"
                 menu.choice :Math, "Math"
+                menu.choice :Wizard, "Wizard"
             end
         else
             @choice = tty_prompt.select "Choose your joke type" do |menu|
                 menu.choice :Knock_Knock, "Knock_Knock"
                 menu.choice :Dad, "Dad"
                 menu.choice :Math, "Math"
+                menu.choice :Wizard, "Wizard"
             end
         end
         display_joke

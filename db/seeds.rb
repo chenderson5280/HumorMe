@@ -20,6 +20,10 @@ Joke.create name: "2 squared", content: "Why didn't 4 ask out 5?\n\nHe was 2 squ
 Joke.create name: "Binary", content: "They say there are 10 types of people...\n\nThose that know binary, and those who don't", category: "Math"
 Joke.create name: "Pliers", content: "What tool is best suited for math?\n\nMulti-pliers!", category: "Math"
 Joke.create name: "Lunch", content: "Why did the two fours skip lunch?\n\nThey already 8!", category: "Math"
+Joke.create name: "Crabs", content: "Why don’t crabs give to charity?\n\nBecause they’re shellfish", category: "Dad"
+Joke.create name: "Diet Sodas", content: "I got hit in the head with a can of Diet Coke today. Don’t worry, I’m not hurt.\n\nIt was a soft drink.", category: "Dad"
+Joke.create name: "Jacket", content: "How do you steal a coat?\n\nYou jacket.", category: "Dad"
+
 
 
 # binding.pry
